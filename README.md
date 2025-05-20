@@ -13,11 +13,11 @@ Gymbuddy is a web application designed to help users find and connect with worko
 
 - Calendar to schedule workouts
 
-*Note: The calendar scheduling feature is not yet fully functional. Future versions will allow users to add, view, and manage workout appointments.*
-
 - Custom workout library
 
 - Profile creation & customization
+
+*Note: The calendar scheduling feature is not yet fully functional. Future versions will allow users to add, view, and manage workout appointments.*
 
 Whether you're looking for a spotter or a partner to stay motivated with, Gymbuddy helps you find the right match nearby.
 
@@ -39,7 +39,7 @@ Messaging: Search for users to add to your chat list and start a 1-on-1 conversa
 
 BMI Calculator: Estimate body mass index.
 
-Workout Calendar: Add and schedule upcoming workouts.
+Workout Calendar: Add and schedule upcoming workouts (*Scheduling functionality is not yet fully implemented.*).
 
 Workout Library: Create and store personalized routines.
 
