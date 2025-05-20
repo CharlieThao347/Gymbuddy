@@ -22,25 +22,25 @@ Gymbuddy is a web application designed to help users find and connect with worko
 Whether you're looking for a spotter or a partner to stay motivated with, Gymbuddy helps you find the right match nearby.
 
 ## Built With
-- ![React](https://img.shields.io/badge/React-18.2.0-blue) **[React](https://reactjs.org/)** – Frontend library used to build a dynamic and responsive user interface.  
-- ![Express](https://img.shields.io/badge/Express-4.18.2-lightgrey) **[Express](https://expressjs.com/)** – Backend framework for creating RESTful APIs and handling server-side logic.  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green) **[MongoDB](https://www.mongodb.com/)** – NoSQL database used to store user profiles, messages, and workout data.  
-- ![Firebase](https://img.shields.io/badge/Firebase-9.6.1-orange) **[Firebase](https://firebase.google.com/)** – Used for secure cloud storage of profile images via the Firebase Admin SDK.  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) **[JavaScript](https://www.javascript.com/)** – Core programming language used throughout both the frontend and backend.  
-- ![CSS](https://img.shields.io/badge/CSS-3-blue) **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** – Styling language used to design and layout the frontend components.
-
+- [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
+- [![Express](https://img.shields.io/badge/Express-4.18.2-lightgrey)](https://expressjs.com/)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green)](https://www.mongodb.com/)
+- [![Firebase](https://img.shields.io/badge/Firebase-9.6.1-orange)](https://firebase.google.com/)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.javascript.com/)
+- [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Usage
 Login/Sign Up: You can log in or create a new account via the landing page.  
 
 Find a Gym Buddy: Match with others based on gym location.
 
-Messaging: Search for users to add to your chat list and start a 1-on-1 conversation with them.
+Messaging – Search for users to add to your chat list and start a 1-on-1 conversation with them.
 
-BMI Calculator: Estimate body mass index.
+BMI Calculator – Estimate body mass index.
 
-Workout Calendar: Add and schedule upcoming workouts.
+Workout Calendar – Add and schedule upcoming workouts.
 
-Workout Library: Create and store personalized routines.
+Workout Library – Create and store personalized routines.
 
-Profile: Upload a profile image and edit personal info for others to see.
+Profile – Upload a profile image and edit personal info for others to see.
+
