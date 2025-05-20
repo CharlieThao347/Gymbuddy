@@ -7,17 +7,17 @@ A full-stack web application to find gym partners based on gym location, connect
 ## Description
 Gymbuddy is a web application designed to help users find and connect with workout partners based on gym location. In addition to its core matching feature, it includes:
 
-- 1-on-1 messaging
+1-on-1 messaging
 
-- BMI calculator
+BMI calculator
 
-- Calendar to schedule workouts
+Calendar to schedule workouts
 
-*Note: The calendar scheduling feature is not yet fully functional. Future versions will allow users to add, view, and manage workout appointments.*
+Note: The calendar scheduling feature is not yet fully functional. Future versions will allow users to add, view, and manage workout appointments.
 
-- Custom workout library
+Custom workout library
 
-- Profile creation & customization
+Profile creation & customization
 
 Whether you're looking for a spotter or a partner to stay motivated with, Gymbuddy helps you find the right match nearby.
 
@@ -29,7 +29,7 @@ Whether you're looking for a spotter or a partner to stay motivated with, Gymbud
 - [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.javascript.com/)
 - [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## Usage
+### Usage
 Login/Sign Up: You can log in or create a new account via the landing page.  
 
 Find a Gym Buddy: Match with others based on gym location.
