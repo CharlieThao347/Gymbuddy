@@ -21,6 +21,17 @@ Gymbuddy is a web application designed to help users find and connect with worko
 
 Whether you're looking for a spotter or a partner to stay motivated with, Gymbuddy helps you find the right match nearby.
 
+## My Contributions
+- Designed and implemented the Login and Signup UI, along with backend logic for user registration and authentication
+
+- Created the Profile and Edit Profile interfaces, and implemented backend support for storing and updating user data
+
+- Designed and implemented the Messages page UI and corresponding backend messaging logic
+
+- Designed the Main page background/wallpaper, contributing to the app’s visual identity and layout consistency
+
+- Implemented the Find Gym Buddy page and Matches page UIs, along with backend functionality for gym-based user matching
+
 ## Built With
 - ![React](https://img.shields.io/badge/React-19.0.0-blue) **[React](https://reactjs.org/)** – Frontend library used to build a dynamic and responsive user interface.  
 - ![Express](https://img.shields.io/badge/Express-5.1.0-lightgrey) **[Express](https://expressjs.com/)** – Backend framework for creating RESTful APIs and handling server-side logic.  
@@ -44,3 +55,12 @@ Workout Calendar: Add and schedule upcoming workouts (*Scheduling functionality 
 Workout Library: Create and store personalized routines.
 
 Profile: Upload a profile image and edit personal info for others to see.
+
+## Project Context
+This project was originally developed as part of a team software engineering course at California State University, Chico.
+
+This repository is a **personal portfolio copy** of the project, used to showcase my individual contributions and for future development.
+
+### Original Repositories
+- [Chico State GitHub (Course-Owned Repo)](https://github.com/ChicoState/gymbuddy)
+- [My School Fork](https://github.com/CharlieThao/gymbuddy)
