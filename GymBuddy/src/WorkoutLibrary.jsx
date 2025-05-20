@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { auth } from "./firebase";
 import { onAuthStateChanged } from "firebase/auth";
 import { workoutData } from './workoutData';
@@ -38,7 +37,7 @@ function WorkoutLibrary() {
           style={{
             padding: "10px 20px",
             marginBottom: "20px",
-            backgroundColor: "#4CAF50",
+            backgroundColor: "black",
             color: "white",
             border: "none",
             borderRadius: "5px",
@@ -53,7 +52,6 @@ function WorkoutLibrary() {
 
         {/* Render split selection buttons */}
         <div
-          
           style={{
             display: "flex",
             gap: "10px",
@@ -68,6 +66,14 @@ function WorkoutLibrary() {
               onClick={() => {
                 setActiveSplit(splitIndex);
                 setActiveDay(null); // Reset day selection on new split
+              }}
+              style={{
+                padding: "10px 15px",
+                backgroundColor: "black",
+                color: "white",
+                border: "none",
+                borderRadius: "5px",
+                cursor: "pointer",
               }}
             >
               <div style={{ gap: "20px" }}>
@@ -89,7 +95,18 @@ function WorkoutLibrary() {
             }}
           >
             {workoutData.splits[activeSplit].days.map((day, dayIndex) => (
-              <button key={dayIndex} onClick={() => setActiveDay(dayIndex)}>
+              <button
+                key={dayIndex}
+                onClick={() => setActiveDay(dayIndex)}
+                style={{
+                  padding: "10px 15px",
+                  backgroundColor: "black",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "5px",
+                  cursor: "pointer",
+                }}
+              >
                 {day.dayName}
               </button>
             ))}
@@ -133,7 +150,8 @@ function WorkoutLibrary() {
               key={index}
               style={{
                 padding: "10px 15px",
-                background: activeMuscle == index ? "#4CAF50" : "#d0d0d0",
+                backgroundColor: "black",
+                color: "white",
                 border: "none",
                 borderRadius: "5px",
                 cursor: "pointer",
@@ -166,6 +184,15 @@ function WorkoutLibrary() {
         color="secondary"
         sx={{ marginBottom: 2 }}
         onClick={() => navigate("/home")}
+        style={{
+          padding: "10px 20px",
+          backgroundColor: "black",
+          color: "white",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
+          marginTop: "30px",
+        }}
       >
         Back
       </button>
@@ -174,4 +201,5 @@ function WorkoutLibrary() {
 }
 
 export default WorkoutLibrary;
+
 
