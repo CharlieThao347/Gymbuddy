@@ -62,5 +62,5 @@ This project was originally developed as part of a team software engineering cou
 This repository is a **personal portfolio copy** of the project, used to showcase my individual contributions and for future development.
 
 ### Original Repositories
-- [Chico State GitHub (Course-Owned Repo)](https://github.com/ChicoState/gymbuddy)
+- [Chico State Software Engineering GitHub (Course-Owned Repo)](https://github.com/ChicoState/gymbuddy)
 - [My School Fork](https://github.com/CharlieThao/gymbuddy)
