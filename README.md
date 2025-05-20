@@ -22,10 +22,10 @@ Gymbuddy is a web application designed to help users find and connect with worko
 Whether you're looking for a spotter or a partner to stay motivated with, Gymbuddy helps you find the right match nearby.
 
 ## Built With
-- ![React](https://img.shields.io/badge/React-19.0.0-blue) **[React](https://reactjs.org/)** – Frontend library used to build a dynamic and responsive user interface.  
-- ![Express](https://img.shields.io/badge/Express-5.1.0-lightgrey) **[Express](https://expressjs.com/)** – Backend framework for creating RESTful APIs and handling server-side logic.  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-6.15-green) **[MongoDB](https://www.mongodb.com/)** – NoSQL database used to store user profiles, messages, and workout data.  
-- ![Firebase](https://img.shields.io/badge/Firebase-11.5.0-orange) **[Firebase](https://firebase.google.com/)** – Used for secure cloud storage of profile images via the Firebase Admin SDK.  
+- ![React](https://img.shields.io/badge/React-18.2.0-blue) **[React](https://reactjs.org/)** – Frontend library used to build a dynamic and responsive user interface.  
+- ![Express](https://img.shields.io/badge/Express-4.18.2-lightgrey) **[Express](https://expressjs.com/)** – Backend framework for creating RESTful APIs and handling server-side logic.  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green) **[MongoDB](https://www.mongodb.com/)** – NoSQL database used to store user profiles, messages, and workout data.  
+- ![Firebase](https://img.shields.io/badge/Firebase-9.6.1-orange) **[Firebase](https://firebase.google.com/)** – Used for secure cloud storage of profile images via the Firebase Admin SDK.  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) **[JavaScript](https://www.javascript.com/)** – Core programming language used throughout both the frontend and backend.  
 - ![CSS](https://img.shields.io/badge/CSS-3-blue) **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** – Styling language used to design and layout the frontend components.
 
