@@ -57,7 +57,7 @@ Workout Library: Create and store personalized routines.
 Profile: Upload a profile image and edit personal info for others to see.
 
 ## Project Context
-This project was originally developed as part of a team software engineering course at California State University, Chico.
+This project was originally developed in a team of 5 as part of a software engineering course at California State University, Chico.
 
 This repository is a **personal portfolio copy** of the project, used to showcase my individual contributions and for future development.
 
