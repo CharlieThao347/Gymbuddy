@@ -33,7 +33,8 @@ Whether you're looking for a spotter or a partner to stay motivated with, Gymbud
 - Implemented the Find Gym Buddy page and Matches page UIs, along with backend functionality for gym-based user matching
 
 ## Built With
-- ![React](https://img.shields.io/badge/React-19.0.0-blue) **[React](https://reactjs.org/)** – Frontend library used to build a dynamic and responsive user interface.  
+- ![React](https://img.shields.io/badge/React-19.0.0-blue) **[React](https://reactjs.org/)** – Frontend library used to build a dynamic and responsive user interface.
+- ![Node.js](https://img.shields.io/badge/Node.js-20.19.1-green) **[Node.js](https://nodejs.org/)** – JavaScript runtime used to execute backend code and run the Express server.
 - ![Express](https://img.shields.io/badge/Express-5.1.0-lightgrey) **[Express](https://expressjs.com/)** – Backend framework for creating RESTful APIs and handling server-side logic.  
 - ![MongoDB](https://img.shields.io/badge/MongoDB-6.15-green) **[MongoDB](https://www.mongodb.com/)** – NoSQL database used to store user profiles, messages, and workout data.  
 - ![Firebase](https://img.shields.io/badge/Firebase-11.5.0-orange) **[Firebase](https://firebase.google.com/)** – Used for secure cloud storage of profile images via the Firebase Admin SDK.  
