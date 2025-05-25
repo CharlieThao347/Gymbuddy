@@ -1,5 +1,5 @@
 # Gymbuddy
-A full-stack web application to find gym partners based on gym location, connect via messaging, and manage fitness goals with useful tools.
+A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) to find gym partners based on gym location, connect via messaging, and manage fitness goals with useful tools.
 
 ## 🌐 Live Demo  
 👉 **[Try the App Here](https://gymbuddy-d7838.web.app/)**
@@ -7,7 +7,7 @@ A full-stack web application to find gym partners based on gym location, connect
 ## Description
 Gymbuddy is a web application designed to help users find and connect with workout partners based on gym location. In addition to its core matching feature, it includes:
 
-- 1-on-1 messaging
+- Private chat
 
 - BMI calculator
 
@@ -47,7 +47,7 @@ Login/Sign Up: You can log in or create a new account via the landing page.
 
 Find a Gym Buddy: Match with others based on gym location.
 
-Messaging: Search for users to add to your chat list and start a 1-on-1 conversation with them.
+Messaging: Search for users to add to your chat list and start a private chat with them.
 
 BMI Calculator: Estimate body mass index.
 
