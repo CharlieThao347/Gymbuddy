@@ -1,11 +1,11 @@
 # Gymbuddy
-A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) to help users find gym partners via gym location, connect via messaging, and manage fitness goals with useful tools.
+A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) to help users find workout partners via gym location, connect via messaging, and manage fitness goals with useful tools.
 
 ## 🌐 Live Demo  
 👉 **[Try the App Here](https://gymbuddy-d7838.web.app/)**
 
 ## Description
-Gymbuddy is a web application designed to help users find and connect with workout partners based on gym location. In addition to its core matching feature, it includes:
+Gymbuddy is a web application designed to help users find and connect with workout partners via gym location. In addition to its core matching feature, it includes:
 
 - Private chat
 
